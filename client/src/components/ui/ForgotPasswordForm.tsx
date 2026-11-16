@@ -7,7 +7,7 @@ import { toast } from "react-toastify";
 import config from "@/config";
 import { useAuthDialog } from '@lib/store/auth-dialog'
 import Input from "@ui/Input";
-import { ForgotPasswordData, forgotPasswordSchema } from "@ekitab/shared/validation/auth";
+import { ForgotPasswordData, forgotPasswordSchema } from "@Readora/shared/validation/auth";
 
 type Props = {
     email: string;

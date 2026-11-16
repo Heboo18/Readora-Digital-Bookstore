@@ -19,7 +19,7 @@ function Navbar({}: Props) {
         <h1 className="text-2xl font-bold space-x text-inherit">
             📚 &nbsp;
             <Link to="/">
-                eKitab
+                Readora Digital Bookstore
             </Link>
         </h1>
 

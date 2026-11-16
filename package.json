@@ -1,7 +1,7 @@
 {
-  "name": "ekitab",
+  "name": "Readora Digital Bookstore",
   "version": "1.0.0",
-  "description": "eKitab: The verse of books",
+  "description": "Readora Digital Bookstore : The verse of books",
   "type": "module",
   "license": "MIT",
   "scripts": {
